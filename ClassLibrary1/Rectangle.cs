@@ -8,7 +8,7 @@
         public Rectangle(double sideA, double sideB) => (side1, side2) = (sideA, sideB);
 
         
-         private double AreaCalculator()
+        private double AreaCalculator()
         {
             return side1 * side2;
         }
